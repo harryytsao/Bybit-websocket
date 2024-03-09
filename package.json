@@ -1,0 +1,19 @@
+{
+  "name": "bybit-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "promisify": "^0.0.3",
+    "utils": "^0.3.1",
+    "ws": "^8.16.0"
+  }
+}
